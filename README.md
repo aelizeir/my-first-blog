@@ -4,4 +4,4 @@ Ali's First Blog Made with Django
 
 # Contact me
 
-Number: 09976910359
+email: aligutierrez1016@gmail.com
